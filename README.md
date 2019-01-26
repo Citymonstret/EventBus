@@ -2,7 +2,7 @@
 A simple and effective subscription based event bus written in Java
 
 #### What can it do?
-EventBus support synchronous and asynchronous event dispatching. Events may be
+EventBus supports synchronous and asynchronous event dispatching. Events may be
 cancellable. Events are dispatched to annotated subscriber methods.
 
 #### How does it work?
